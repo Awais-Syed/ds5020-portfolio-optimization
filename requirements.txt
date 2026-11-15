@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+scipy
+# only for src/download_data.py (one-time download):
+yfinance
